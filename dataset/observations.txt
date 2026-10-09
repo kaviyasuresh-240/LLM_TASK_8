@@ -1,0 +1,3 @@
+Observations on Gemma 2B responses:
+- Note how different domains affect answer quality.
+- Compare with other models later for accuracy.
